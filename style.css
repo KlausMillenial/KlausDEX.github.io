@@ -1,0 +1,12 @@
+.error{
+    color: darkred;
+}
+
+body{
+    background-color: rgb(192, 192, 243);
+    color: rgb(255, 116, 2);
+}
+
+.btn-sm {
+    margin: 8px;
+}
