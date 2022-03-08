@@ -2,8 +2,8 @@
 
 
 
-const serverUrl = "https://lgkhcybin02a.usemoralis.com:2053/server";
-const appId = "yTQaGp7f7xeQcqqD3bwdZk6o72MbadvAVFyInwLb";
+const serverUrl = "yours";
+const appId = "yours";
 Moralis.start({ serverUrl, appId });
 
 Moralis
